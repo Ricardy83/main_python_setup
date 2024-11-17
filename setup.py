@@ -1,0 +1,1 @@
+ # Fichier de configuration pour le packaging du projet

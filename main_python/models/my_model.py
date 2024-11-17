@@ -1,0 +1,1 @@
+ # Exemple d'un fichier de classe ou modèle
